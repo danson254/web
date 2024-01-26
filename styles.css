@@ -485,6 +485,7 @@ h5{
 }
 #cprt{
     font-family: 'Manrope',sans-serif;
-    font-size: x-small;
-    color: white;
+    font-size: 14px;
+    color: #667dbd;
+    margin-left: 100px;
 }
